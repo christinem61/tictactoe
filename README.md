@@ -10,3 +10,5 @@ contains all the logic for playing the game and making optimal moves
 ##runner.py
 
 run this to play against AI
+
+Video: https://youtu.be/O0_2LOMWNNg
